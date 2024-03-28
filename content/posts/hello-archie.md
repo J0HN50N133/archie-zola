@@ -145,7 +145,7 @@ $$
 
 You can also use inline and block-style:
 
-1. \\( \KaTeX \\) inline
+1. $\KaTeX$ inline
 2. \\[ \KaTeX \\]
 3. $$ \KaTeX $$
 
